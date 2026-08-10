@@ -26,7 +26,7 @@ Hypervisor: **Oracle VirtualBox** · Network: **Host-Only** `192.168.56.0/24`, n
 | ------ | ----- | ------ |
 | [Windows 7 — MS17-010 Assessment](./windows7-ms17-010.md) | SMB enumeration, MS17-010 testing, SMB signing finding | 🔜 In progress |
 | [Metasploitable 2](./metasploitable2.md) | Service enumeration and exploitation | ✅ Complete |
-| Metasploitable 3 | Windows service exploitation | 🔜 In progress |
+| [Metasploitable 3](./metasploitable3.md) | Windows service exploitation | 🔜 In progress |
 | Windows 10 | Privilege escalation | 🔜 In progress |
 
 ---
